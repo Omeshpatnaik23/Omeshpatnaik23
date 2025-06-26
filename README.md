@@ -1,17 +1,20 @@
-<h1 align="center">⚡ Omesh Patnaik - aka "0xFusion" ⚡</h1>
+<h1 align="center" style="color:#00ffe1;">⚡ Omesh Patnaik - aka "<span style='color:#ff007f;'>0xFusion</span>" ⚡</h1>
 
-```bash
+<pre style="background-color:#1e1e1e;color:#39ff14;padding:15px;border-radius:10px;">
 > systemctl start creativity
 > python3 main.py --fastapi --jwt --yolo --ai_assistant
-```
+</pre>
 
-🚀 B.Tech | Backend Alchemist | AI Integrator | Code Wizard  
-🎓 NIST University, Berhampur  
-📫 omeshp2303@gmail.com | [LinkedIn](https://linkedin.com/in/omeshpatnaik)
+<p align="center">
+  🚀 <b>B.Tech</b> | Backend Alchemist | AI Integrator | Code Wizard <br>
+  🎓 NIST University, Berhampur <br>
+  📫 <a href="mailto:omeshp2303@gmail.com">omeshp2303@gmail.com</a> | 
+  <a href="https://linkedin.com/in/omeshpatnaik" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 <span style="color:#ffcc00;">Tech Arsenal</span>
 
 ```yaml
 Languages:
@@ -39,23 +42,20 @@ Cool Stuff:
 
 ---
 
-## 🔥 Selected Projects
+## 🔥 <span style="color:#ff4444;">Selected Projects</span>
 
 ### 🧠 Fusion AI – Secure Developer Assistant Platform
-> Built for 150+ devs. JWT-auth. Real-time Code Generator. 25% faster dev cycles.  
-> A fusion of backend security and AI-powered productivity.
+> Built for 150+ devs. JWT-auth. Real-time Code Generator. 25% faster dev cycles.
 
 ### 🎯 YOLOv5 Ensemble Learning
-> Ensemble of YOLOv5s/l/x. 18% accuracy boost.  
-> Transfer learning + model fusion = Object Detection OP mode.
+> Ensemble of YOLOv5s/l/x. 18% accuracy boost via model fusion.
 
 ### 📚 MangaStore API – For Anime Fanatics
-> Built FastAPI-based wishlist APIs for 3,000+ user actions/month.  
-> MongoDB-powered. JWT-secured. Otaku-approved.
+> FastAPI wishlist APIs, MongoDB, JWT-secured, Otaku-approved.
 
 ---
 
-## 🧾 Certificates (Proof I'm Not Just Script Kiddie)
+## 🧾 <span style="color:#6f42c1;">Certificates</span>
 
 - ✅ HackerRank Python – 2023  
 - ✅ GreatLearning Python Projects – 2023  
@@ -64,10 +64,10 @@ Cool Stuff:
 
 ---
 
-## 🕹 Leadership Mode: ON
+## 🕹 <span style="color:#20c997;">Leadership Mode</span>
 
 **President @ NIST NCS Club (2022–2023)**  
-> Ran hackathons for 200+ coders. Mentored. Built tech community.
+> Organized 200+ coder events, hackathons, and tech forums.
 
 ---
 
@@ -77,8 +77,6 @@ Cool Stuff:
 
 ---
 
-### 👾 Let's Connect and Build Something Legendary.
-```
-
-> `#sudo apt install passion && code --live`
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+build+something+legendary!;&center=true&color=39FF14&vCenter=true&size=24">
+</p>
