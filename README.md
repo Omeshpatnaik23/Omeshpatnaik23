@@ -26,9 +26,9 @@
 
 I am a passionate Computer Science and Engineering student at NIST University, Berhampur, with a strong foundation in software development and emerging technologies. My interests span across AI/ML development, full-stack web development, and creative problem-solving.
 
-- 🎓 **Currently pursuing** B.Tech in Computer Science and Engineering (2021-2025)
+- 🎓 **Completed** B.Tech in Computer Science and Engineering (2021-2025)
 - 📚 **Technology Enthusiast** with expertise in Python, C, and modern web technologies
-- 🤖 **AI/ML Enthusiast** working on YOLO models and intelligent systems
+- 🤖 **AI/ML Enthusiast** worked on YOLO models and intelligent systems
 - 💻 **Full Stack Developer** experienced in Django, FastAPI, and modern frameworks
 - 🎯 **Problem Solver** and **Creative Thinker**
 - 🏆 **Leadership Experience** as President of NIST NCS Club
